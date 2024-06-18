@@ -5,6 +5,3 @@ alert = prompt('Sejam bem vindos de verdade! Qual o seu nome?');
 
 alert = prompt('E a sua idade?');
 //Sua idade, por favor!
- 
-// Hello Hello teste git push
-function oComando();
