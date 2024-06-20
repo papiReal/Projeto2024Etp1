@@ -1,0 +1,5 @@
+// Criado para ignorar pastas e arquivos e/ou tipos de arquivos 
+///temp/ (pasta)
+///texto.txt (arquivos)
+///*.apk (todos os arquivos do tipo)
+temp/
